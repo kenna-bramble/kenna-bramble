@@ -1,5 +1,6 @@
 ## ✨ Hello! ✨ My name is McKenna. 
-I am a **Frontend Developer** based in Ypsilanti, Michigan. 
+
+I have always dreamt of being a Lisbeth Salander-esque hacker who lives off of bagels and a lack of sleep, but I am gluten intolerant and you will not see me hacking corrupt corporations on less than 8 hours of precious sleep thank you very much. So, I have settled for the less glamorous but more sustainable career as a **Frontend Developer** and **UX Designer**! 
 
 ### About Me
 
@@ -13,8 +14,6 @@ I am a **Frontend Developer** based in Ypsilanti, Michigan.
 
 📫 You may reach me via [LinkedIn](www.linkedin.com/in/mckenna-bramble
 ) - connect with me and send a message! 
-
-⚡ Fun Fact: Pre-pandemic I did kickboxing 🥊 but I am now very out of practice. Hopefully soon I can find a local place to get back into it! 
 
 <!--
 **kenna-bramble/kenna-bramble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
