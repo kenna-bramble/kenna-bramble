@@ -6,7 +6,7 @@ I have always dreamt of being a Lisbeth Salander-esque hacker 🐉 who lives off
 
 🙂 My pronouns are **_she/her/hers_**. 
 
-💻 I am proficient in HTML, CSS, and JavaScript and I’m currently learning React. It has been a PROCESS but I am close to completing the [skillcrush](https://skillcrush.com/) React course! 
+💻 My languages/libraries include HTML, CSS, JavaScript, and React.
 
 ✒️ I am a [skillcrush](https://skillcrush.com/) student and I blog about my tech journey on [CodeNewbie](https://community.codenewbie.org/mckennabramble). 
 
