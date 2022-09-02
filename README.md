@@ -12,7 +12,7 @@ I have always dreamt of being a Lisbeth Salander-esque hacker 🐉 who lives off
 
 🎨 I design logos, websites, print publications, etc. using Illustrator, Photoshop, InDesign, and Figma. 
 
-🔭 I am searching for my first job in tech as a Frontend Developer at a **remote-first** company. 
+🔭 I am searching for my first job in tech as a Frontend Developer / Software Engineer at a **remote-first** company. 
 
 📫 You may reach me via [LinkedIn](www.linkedin.com/in/mckenna-bramble
 ) - connect with me and send a message! 
