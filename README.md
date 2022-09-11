@@ -1,6 +1,6 @@
 ## ✨ Hello! ✨ My name is McKenna. 
 
-I have always dreamt of being a Lisbeth Salander-esque hacker 🐉 who lives off of bagels and a lack of sleep, but I am gluten intolerant and you will _not_ see me hacking corrupt corporations on less than 8 hours of precious sleep thank you very much. So, I have settled for the less glamorous but more sustainable career as a **Frontend Developer** and **UX Designer**! 
+I have always dreamt of being a Lisbeth Salander-esque hacker 🐉 who lives off of bagels and a lack of sleep, but I am gluten intolerant and you will _not_ see me hacking corrupt corporations on less than 8 hours of precious sleep thank you very much. So, I have settled for the less glamorous but more sustainable career as a **Frontend Developer** and **Digital Designer**! 
 
 ### About Me
 
