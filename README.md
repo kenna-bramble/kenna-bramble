@@ -6,13 +6,13 @@ I have always dreamt of being a Lisbeth Salander-esque hacker 🐉 who lives off
 
 🙂 My pronouns are **_she/her/hers_**. 
 
-✒️ I am a [skillcrush](https://skillcrush.com/) student and I blog about my tech journey on [CodeNewbie](https://community.codenewbie.org/mckennabramble). 
+✒️ I am a [skillcrush](https://skillcrush.com/) grad and I blog about my tech journey on [CodeNewbie](https://community.codenewbie.org/mckennabramble). 
 
 💻 My languages/libraries include HTML, CSS, JavaScript, and React.
 
 🎨 I design logos, websites, print publications, etc. using Illustrator, Photoshop, InDesign, and Figma. 
 
-🔭 I am searching for my first job in tech as a Frontend Developer / Software Engineer at a **remote-first** company. 
+🔭 I am searching for my first job in tech as a Frontend Developer / Software Engineer!!!
 
 📫 You may reach me via [LinkedIn](www.linkedin.com/in/mckenna-bramble
 ) - connect with me and send a message! 
